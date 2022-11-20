@@ -27,6 +27,7 @@ try {
 	catch(Exception e) {
 		System.out.println("excepion handled");
 	}
+System.out.println("jaya");
 	}
 }
 	
